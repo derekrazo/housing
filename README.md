@@ -35,7 +35,7 @@
     -Distribution Channels for Product
 - Legal Issues
   - Software Development
-    - [Licensing](implementation/licensing)
+    - [Licensing](implementation/licensing.md)
     - Copywright
     - Legal Implementation of Social Business Model
   - Land Development
