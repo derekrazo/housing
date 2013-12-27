@@ -32,10 +32,10 @@
   - Land Development
     - Expenses
     - Product Description & Packages
-    -vDistribution Channels for Product
+    -Distribution Channels for Product
 - Legal Issues
   - Software Development
-    - Licensing
+    - [Licensing](implementation/licensing)
     - Copywright
     - Legal Implementation of Social Business Model
   - Land Development
